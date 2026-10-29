@@ -1,4 +1,4 @@
-# Alex Rivera — BSIT Portfolio
+# John Benedick B. Malsi BSIT Portfolio
 
 A responsive student portfolio built with plain HTML, CSS, and JavaScript. It includes a project filter, detail modals, a mobile navigation menu, and a small live activity message.
 
